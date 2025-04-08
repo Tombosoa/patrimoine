@@ -104,7 +104,7 @@ public class BakoCas extends Cas {
                 le08Avril,
                 le08Avril,
                 new Argent(3_000_000, MGA),
-                -1.2
+                -0.12
         );
 
         return Set.of(bmoi,bni, coffre, ordi);
